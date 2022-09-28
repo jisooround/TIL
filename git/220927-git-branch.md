@@ -6,7 +6,7 @@ git branch란 특정한 시점에서 독립적으로 코드를 변경할 수 있
 `$ git branch` 현재 브랜치 확인하기
 `$ git branch -r` remote상의 브랜치 확인하기 
 `$ git branch setup` 'setup'이라는 브랜치 생성하기
-`$ git switch setup` 'setup`이라는 브랜치로 이동하기
+`$ git switch setup` 'setup'이라는 브랜치로 이동하기
 `$ git merge setup` 'setup'이라는 브랜치를 끌어와 병합하기
 `$ git branch -D setup` 'setup'이라는 브랜치 삭제하기
 `$ git branch -M newname` 브랜치 이름 바꾸기
